@@ -1,7 +1,5 @@
+# 繁體中文
 ![banner](genryu-cover-tw.png?raw=true)
-
-# 源流明體
-
 「源流明體」是基於[思源宋體](https://github.com/adobe-fonts/source-han-serif/)的而改造的開放原始碼中文字型。
 
 ## 特徵
@@ -47,9 +45,8 @@
 
 ---
 
+# 日本語
 ![banner](genryu-cover-jp.png?raw=true)
-
-# 源流明朝　（日本語）
 
 「源流明朝」は[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)から派生されたフリーフォントです。
 
