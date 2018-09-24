@@ -1,5 +1,6 @@
+![源流明體](https://buttaiwan.github.io/font/pics/genryu.png)
+
 # 繁體中文
-![源流明體](https://buttaiwan.github.io/font/pics/genryu-tw.png)
 
 「源流明體」是基於[思源宋體](https://github.com/adobe-fonts/source-han-serif/)的而改造的開放原始碼中文字型。
 
@@ -31,9 +32,14 @@
 
 ### Ver 1.2　更新 (2018/8/19)
 
-解決Word等環境直排時標點符號無法正常旋轉的問題。
+* 解決Word等環境直排時標點符號無法正常旋轉的問題。（Word 2007 / Word 2016 測試成功。轉成PDF亦正常。）
 
-（Word 2007 / Word 2016 測試成功。轉成PDF亦正常。）
+### Ver 1.300　更新 (2018/9/24)
+
+* 修改部分KR版本不理想的文字對應，並統一部份文字的部件。
+* 字型風格更精緻化。（三角形部份更圓一點。本來只有豎筆有的起筆加強，撇畫也加上去了。）
+
+![image](https://user-images.githubusercontent.com/5418570/45955294-0e97bd00-c042-11e8-98b1-56f3ced12a2e.png)
 
 ### 解決一些其他思源宋體使用上的雜問題
 
@@ -53,7 +59,6 @@
 ---
 
 # 日本語
-![源流明朝](https://buttaiwan.github.io/font/pics/genryu-jp.png)
 
 「源流明朝」は[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)から派生されたフリーフォントです。
 
@@ -81,11 +86,14 @@
 本来の.otfフォントを.ttfフォントに変換しました。
 （Word、PowerPointなどのアプリケーションでの対応性向上のため。）
 
-### Ver 1.2　更新 (2018/8/19)
+### Ver 1.200　更新 (2018/8/19)
 
-Wordなど環境で、縦組みの記号が回転しない問題を解決しました。
+* WordなどGDI環境で、句読点などが正しく回転できない問題を解決しました。（Word 2007 / Word 2016 テスト済み。PDF保存もOK。）
 
-（Word 2007 / Word 2016 実験済み。PDF出力も正確。）
+### Ver 1.300　更新 (2018/9/24)
+
+* 一部の漢字を筆押さえのある字形に変更。
+* デザインを一新。本来横・縦だけ角立てしていたが、今回は左払いの角立ても行った。なお、ウロコの形などいろいろ手入れ。
 
 ## ダウンロード
 
