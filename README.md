@@ -1,165 +1,110 @@
-![源流明體](https://buttaiwan.github.io/font/pics/genryu.png)
+![源流明體/源流明朝](https://buttaiwan.github.io/font/pics/genryu.png)
 
-# 繁體中文
+# 源流明體 | 源流明朝 | GenRyu Serif
 
-「源流明體」是基於[思源宋體](https://github.com/adobe-fonts/source-han-serif/)的而改造的開放原始碼中文字型。
-
-## 特徵
-
-### 傳統印刷體風格
-
-請參考[源樣明體](https://github.com/ButTaiwan/genyo-font/tree/master)的說明。
-
-### 漢字美感的改造
-
-漢字寬度稍微壓縮，顯得比原始的思源宋體要稍微瘦長。
-並且在橫筆的起筆與豎筆的起筆、收筆處，全都加上粗細變化。
-彷彿重現鉛字的壓印感，文字較有文學感、人文氣息。
-
-> Note. 請注意以上改造乃以電腦程式自動進行，未進行任何人工處理，在部分筆畫複雜文字可能會有筆畫不太一致的情況。
-
-### 7個字重
-
-完全重製思源宋體原來所有7個字重。
-無論極粗或極細，都能使用源流明朝的古典風格！
-
-### TrueType格式
-
-字型已經轉換成TrueType格式（.ttf）。
-在Word、PowerPoint等軟體支援都較為完整（例如可以正常內嵌在投影片裡）。
-對一些老舊的應用程式相容性都較高。
-當然，直排橫排都沒有問題！
-
-### Ver 1.2　更新 (2018/8/19)
-
-* 解決Word等環境直排時標點符號無法正常旋轉的問題。（Word 2007 / Word 2016 測試成功。轉成PDF亦正常。）
-
-### Ver 1.300　更新 (2018/9/24)
-
-* 修改部分KR版本不理想的文字對應，並統一部份文字的部件。
-* 字型風格更精緻化。（三角形部份更圓一點。本來只有豎筆有的起筆加強，撇畫也加上去了。）
-
-![image](https://user-images.githubusercontent.com/5418570/45955294-0e97bd00-c042-11e8-98b1-56f3ced12a2e.png)
-
-### Ver 1.500 更新 (2020/4/11)
-
-* 支援台客語漢字
-* 支援台客族語羅馬拼音
-* 提高注音符號品質，並支援注音直排格式
-* 假名與引號類橫排時改為比例寬
-* 修改數字2、3、問號為較習慣的形式
-* 改以 ttc 形式釋出雙語版本
-
-### Ver 2.000 更新 (2024/7/25)
-
-* 中文分為現代通用寫法的月版(TW)與傳統鉛字寫法的丹(TC)版，標點改回等寬。
-* 日文版分為等寬版本(JP)與比例寬版本(PJP)。
-* 新增jf7000當務字集與HKSCS2001漢字。
-* 除 ttc 之外，另釋出 otf 版本。
-* 修復一些 issues 內的累積問題，如直排時破折號無置中、缺少白話字大寫ᴺ。
-
-### Ver 2.100 更新 (2024/8/22)
-
-* 中文月、丹版，人工重製約百字常用字的寫法，讓寫法稍微統一。
-* 新增KS X 1001編碼範圍內的韓文音節2350字與相容字母（輸入法顯示用）。
-* 提供傳統粗體模式，讓軟體的B按鈕生效。（實作上是新增X版，內容與B相同，附屬於B版的ttc檔案中一併安裝，作為R版的粗體。otf版未提供）
-
-### 解決一些其他思源宋體使用上的雜問題
-
-* 解決在Illustrator中，文字行高過高，不容易選到正確行的問題。
-* 解決在Word中，文字佔兩倍行高的問題。（12pt仍然會占2倍行高，但11pt就能在1倍行高內顯示了。）
-
-## 下載字型
-
-請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」。
-
-## 此為公測版
-
-目前仍是Beta公測版本，未來本專案不排除有大幅更改規格的可能性。
-歡迎提供測試反饋，請直接反饋在GitHub的Issues中。
-未來亦不保證持續跟隨思源宋體升版。
-
-## 著作權與授權
-
-* 本字型是基於 SIL Open Font License 1.1 改造Adobe所開發、發表的「[思源宋體](https://github.com/adobe-fonts/source-han-serif/)」字型。
-
-* 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
-
-    * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
-    * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
+[繁體中文](#繁體中文) | [日本語](#日本語) | [English](#english)
 
 ---
 
-# 日本語
+## 繁體中文
 
-「源流明朝」は[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)から派生されたフリーフォントです。
+「源流明體」是基於「源起明體」改造的開放原始碼中文字型。專案透過調整筆畫細節，將橫筆末端變細並微調比例，使字形顯得更加修長且具備傳統鉛字般的文藝氣息，適合用於書籍排版、標題設計與感性敘述。
 
-## 特徴
+### 🌟 Ver 2.0 / 2.1 更新核心
 
-### 漢字の角立て処理
+* **源起明體 (Genki)**：
+    * 針對部件來源不一導致的楷化轉折不協調，進行程式化斷筆處理，視覺更趨一致。後續的源流、源雲等字型皆是以源起為基礎衍生。
+* **中文版本分化：TW vs. TC**
+    * 🌙 **TW (月版)**：採用台灣近年多數字型習慣的通俗寫法（例如「者」無點），適合現代文書與簡報。
+    * 🔴 **TC (丹版)**：傳承傳統鉛字印刷體風格，保留古雅的字形特徵，適合書籍排版與經典設計。
+* **字集大幅擴充**：
+    * 底本全面升級至 **思源宋體 V2.0**。
+    * 針對 **台客語漢字** 擴充支援至 CJK Extension H 範圍。
+    * 收錄 **HKSCS 2021** 增補字符集與 **jf7000 當務字集** v0.9。
+* **本土語言支援**：完整支援台羅、客語、原住民族語拼音，新增 **白話字 (POJ) 大寫 ᴺ**。
+* **標點符號優化**：
+    * **標點回歸全形**：修正了 1.5 版括號過窄的問題，恢復全形樣式。
+    * **特定符號比例寬**：針對 `‘’“”` 採用比例寬版本，確保如 `It’s` 的英文排列正常。
 
-漢字の高さをそのまま、幅だけを少し減らし、字面を少し縦長にしました。
-さらに、角立て処理を行い、活字のイメージを再現し、本家の源ノ明朝をより文学的な雰囲気に改造しました。
+---
 
-> Note. プログラムによる自動改造であり、文字によっては線質が変わらない場合があり。
+## 日本語
 
-### 仮名を小さく
+「源流明朝」は、源起明朝をベースに開発されたフリーフォントです。横書きのラインを整理し、筆運びを意識した細部の調整を加えることで、文学的でモダンな活字スタイルを表現しています。書籍の装丁やキャッチコピーなど、情緒的な表現に最適です。
 
-ひらがなとカタカナをすこしこぶりにしました。
-長文を組むのに最適です。
+### 🌟 Ver 2.0 / 2.1 の主な変更点
 
-### 七つのウエイト
+* **源起明朝 (Genki)**：
+    * TW/TC版におけるエレメントの不整合を解消するため、プログラムによる断筆処理を施した新シリーズ。
+* **用途に応じた使い分け：JP vs. PJP**
+    * **JP (等幅)**：テキスト入力や標準的な文書作成に適した固定幅バージョン。
+    * **PJP (プロポーション)**：かな・記号を比例幅（プロポーション）に設定。映像の字幕やデザインに最適です。
+* **多言語対応の強化**：
+    * 韓国語 **KS X 1001** 範囲内のハングル（2350字）と IME 用字母を追加。
+    * 縦組み時のダッシュの配置問題を解決。
+* **技術的な改善**：Word や Illustrator での行間・バウンディングボックスの問題を改善し、オフィスソフト等の「B」ボタンで正しく太字が適用されるよう対応（ttc 版のみ）。
 
-本家の七つのウエイト、全部改造済み！
-極細から極太まで、すべて利用可能！
+---
 
-### TrueTypeフォーマット
+## English
 
-本来の.otfフォントを.ttfフォントに変換しました。
-（Word、PowerPointなどのアプリケーションでの対応性向上のため。）
+**GenRyu Serif** is an open-source Pan-CJK font derived from Genki Serif. By refining stroke terminals and proportions—specifically thinning the horizontal strokes—it offers a sophisticated, literary aesthetic that captures the elegance of traditional movable type, making it ideal for book layouts and sensitive editorial designs.
 
-### Ver 1.200　更新 (2018/8/19)
+### 🌟 Key Enhancements in Ver 2.0 / 2.1
 
-* WordなどGDI環境で、句読点などが正しく回転できない問題を解決しました。（Word 2007 / Word 2016 テスト済み。PDF保存もOK。）
+* **Genki Serif**:
+    * Features automated "broken-stroke" (disconnected) processing to unify disparate glyph origins in modern Chinese writing styles.
+* **Localized Variants for Traditional Chinese**:
+    * **TW**: Modern common stroke conventions used in contemporary Taiwan.
+    * **TC**: Classic letterpress printing style with traditional stroke forms.
+* **Localized Variants for Japanese**:
+    * **JP (Monospaced)**: Standard fixed-width version for general text.
+    * **PJP (Proportional)**: Proportional spacing for Kana and punctuation, ideal for graphic design and subtitles.
+* **Expanded Character Sets**:
+    * **Taiwanese & Hakka Hanzi**: Extended support within the **CJK Extension H** range.
+    * **HKSCS 2021** & **jf7000 (v0.9)**: Comprehensive coverage for modern and specialized usage.
+    * **Hangul**: Added 2,350 syllables within the **KS X 1001** range.
+* **Technical Refinements**: 
+    * Reverted Chinese brackets to **Full-width**.
+    * Adjusted `‘’“”` to proportional widths to ensure proper alignment for English text (e.g., `It’s`).
+    * Available in both **TTC (Collection)** and **OTF** formats.
 
-### Ver 1.300　更新 (2018/9/24)
+---
 
-* 一部の漢字を筆押さえのある字形に変更。
-* デザインを一新。本来横・縦だけ角立てしていたが、今回は左払いの角立ても行った。なお、ウロコの形などいろいろ手入れ。
+## 📜 歷史更新 / 履歴 / Version History
 
-### Ver 1.500　更新 (2020/4/11)
+### Ver 2.100 (2024/08/22)
+* 中文 TW、TC 版人工重製約百字常用字寫法，使風格更統一。
+* 新增韓文 **KS X 1001** 編碼範圍內音節與相容字母。
+* 提供傳統粗體模式，讓軟體 **Bold (B)** 按鈕生效（新增 X 版作為 R 版的粗體，僅限 ttc 版）。
 
-* かな・かぎかっこのデフォルトを全角からプロポーションに変更。
-* 数字 2、3 とはてなを見慣れるスタイルに
-* リリースファイル形式を ttc に変更
+### Ver 2.000 (2024/07/25)
+* **重大重製**：以思源 V2.0 為底本全新製作。
+* **版本分化**：中文分為 **TW** 與 **TC** 版；日文分為 **JP** 與 **PJP** 版。
+* **系列擴充**：正式釋出「源起明體」系列。
+* **字集擴充**：新增 jf7000 當務字集、HKSCS 2021 漢字，以及 CJK Ext. H 台客語漢字。
+* **問題修復**：修正直排破折號置中問題、標點改回全形。
 
-### Ver 2.000 更新 (2024/7/25)
+### Ver 1.500 (2020/04/11)
+* 重製所有注音符號與方音符號，提高注音符號品質。
+* 支援台客語漢字及羅馬拼音、注音直排。
+* 假名與引號類橫排時改為比例寬（2.000 後中文標點已改回全形）。
+* 修改數字2、3、問號為較習慣的形式
+* 改以 **ttc** 形式釋出雙語版本。
 
-* 日本語フォントをテキスト向けの等幅(JP)と映像向けのプロポーション(PJP)に分けた。
-* 中国語フォントの字形を現代風の月(TW)と伝統活字風の丹(TC)に分け、約物は等幅に。
-* ttcのほかに、otfファイルも公開。
-* 縦組みのダッシュが真ん中にない問題などを解決。
+### Ver 1.300 (2018/09/24)
+* 修改部分 KR 版本不理想的文字對應，並統一部份文字部件。
 
-### Ver 2.100 更新 (2024/8/22)
+### Ver 1.200 (2018/08/19)
+* 解決 Word 等環境直排時標點符號無法正常旋轉的問題。
 
-* 中国語フォントの文字字形を一部修正。
-* KS X 1001範囲内のハングル（2350字）とIME用ハングル字母を追加。
-* 太字バージョンを提供（ソフトのBボタン）。（ウエイトBのttcにRの太字にあたるウエイトXを追加。ttcバージョンのみ）
+---
 
-## ダウンロード
+## ⚖️ 授權條款 / ライセンス / License
 
-このGitHubページの右上の「Clone or download」ボタンから、「Download ZIP」をクリックしてください。
+本字型基於 **SIL Open Font License 1.1** 授權。
+* 您可以免費商用，無需支付授權費用。
+* 您可基於本授權規定再散佈或改造本字型。
+* 關於授權細節與免責事項，請詳讀 `SIL_Open_Font_License_1.1.txt` 檔案。
 
-## ベータバージョンです
-
-これはベータバージョンです。
-予告なく大幅に仕様が変わる可能性あり。
-
-## ライセンスと著作権
-
-* このフォントは、Adobe社が開発・公開している「[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)」を SIL Open Font License 1.1 のもとで改変したフォントです。
-
-* このフォントは SIL Open Font License 1.1 のもとで無償にて公開します。免責条項などに関してはライセンスをご確認ください。
-　
-    * 利用者はこのフォントを使用した制作物を有償・無償を問わず自由に公開・配布することが出来ます。 　
-    * このフォントに対して SIL Open Font License 1.1 で定められた制限のもとで再配布や改変を行うことが出来ます。
+このフォントは SIL Open Font License 1.1 のもとで無償にて公開します。免責条項などに関してはライセンスをご確認ください。
